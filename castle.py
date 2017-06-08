@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python ssgsdgsdg
 #--------------------------------------
 #
 #     Minecraft Python API
