@@ -1,0 +1,3 @@
+from os import system
+
+system ("covert -delay 5 -loop 0 curry.te.roba*.jpg lucasgif.gif")
